@@ -1,2 +1,2 @@
 # Coffee_club
-DataBase Design For A Coffee Club App
+Relational DataBase Design For A Coffee Club App
